@@ -13,17 +13,20 @@ namespace repition_exercize_2 {
 		public static void Main(string[] args) {
 			int counter = 1;
 			int counter2 = 0;
-			while (counter < 5) {
-				while (counter2 > 0) {
+			
+				while (counter > 0) {
 					Console.Write("X");
 					counter = counter - 1;
 					if (counter == 0) {
 						counter2 = counter2 + 1;
 						counter = 1 + counter2;
 						Console.WriteLine();
+						if (counter == 6){
+							counter = 0;
+						}
 					}
 				}
-			}
+			
 			// TODO: Implement Functionality Here
 
 			Console.Write("Press any key to continue . . . ");
