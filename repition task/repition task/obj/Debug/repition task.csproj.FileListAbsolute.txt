@@ -1,0 +1,6 @@
+C:\Users\102570136\Documents\SharpDevelop Projects\repition task\repition task\obj\Debug\repition task.csprojResolveAssemblyReference.cache
+C:\Users\102570136\Documents\SharpDevelop Projects\repition task\repition task\bin\Debug\repition task.exe.config
+C:\Users\102570136\Documents\SharpDevelop Projects\repition task\repition task\bin\Debug\repition task.exe
+C:\Users\102570136\Documents\SharpDevelop Projects\repition task\repition task\bin\Debug\repition task.pdb
+C:\Users\102570136\Documents\SharpDevelop Projects\repition task\repition task\obj\Debug\repition task.exe
+C:\Users\102570136\Documents\SharpDevelop Projects\repition task\repition task\obj\Debug\repition task.pdb
