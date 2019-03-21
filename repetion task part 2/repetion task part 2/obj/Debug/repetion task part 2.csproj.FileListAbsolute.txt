@@ -1,0 +1,6 @@
+C:\Users\102570136\Documents\SharpDevelop Projects\repetion task part 2\repetion task part 2\obj\Debug\repetion task part 2.csprojResolveAssemblyReference.cache
+C:\Users\102570136\Documents\SharpDevelop Projects\repetion task part 2\repetion task part 2\bin\Debug\repetion task part 2.exe.config
+C:\Users\102570136\Documents\SharpDevelop Projects\repetion task part 2\repetion task part 2\bin\Debug\repetion task part 2.exe
+C:\Users\102570136\Documents\SharpDevelop Projects\repetion task part 2\repetion task part 2\bin\Debug\repetion task part 2.pdb
+C:\Users\102570136\Documents\SharpDevelop Projects\repetion task part 2\repetion task part 2\obj\Debug\repetion task part 2.exe
+C:\Users\102570136\Documents\SharpDevelop Projects\repetion task part 2\repetion task part 2\obj\Debug\repetion task part 2.pdb
