@@ -1,0 +1,6 @@
+C:\Users\102570136\Documents\SharpDevelop Projects\repition exercize 2\repition exercize 2\bin\Debug\repition exercize 2.exe.config
+C:\Users\102570136\Documents\SharpDevelop Projects\repition exercize 2\repition exercize 2\bin\Debug\repition exercize 2.exe
+C:\Users\102570136\Documents\SharpDevelop Projects\repition exercize 2\repition exercize 2\bin\Debug\repition exercize 2.pdb
+C:\Users\102570136\Documents\SharpDevelop Projects\repition exercize 2\repition exercize 2\obj\Debug\repition exercize 2.csprojResolveAssemblyReference.cache
+C:\Users\102570136\Documents\SharpDevelop Projects\repition exercize 2\repition exercize 2\obj\Debug\repition exercize 2.exe
+C:\Users\102570136\Documents\SharpDevelop Projects\repition exercize 2\repition exercize 2\obj\Debug\repition exercize 2.pdb
