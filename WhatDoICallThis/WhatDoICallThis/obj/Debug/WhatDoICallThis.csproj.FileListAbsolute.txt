@@ -1,0 +1,7 @@
+c:\users\102570136\source\repos\WhatDoICallThis\WhatDoICallThis\bin\Debug\WhatDoICallThis.exe.config
+c:\users\102570136\source\repos\WhatDoICallThis\WhatDoICallThis\bin\Debug\WhatDoICallThis.exe
+c:\users\102570136\source\repos\WhatDoICallThis\WhatDoICallThis\bin\Debug\WhatDoICallThis.pdb
+c:\users\102570136\source\repos\WhatDoICallThis\WhatDoICallThis\obj\Debug\WhatDoICallThis.csprojAssemblyReference.cache
+c:\users\102570136\source\repos\WhatDoICallThis\WhatDoICallThis\obj\Debug\WhatDoICallThis.csproj.CoreCompileInputs.cache
+c:\users\102570136\source\repos\WhatDoICallThis\WhatDoICallThis\obj\Debug\WhatDoICallThis.exe
+c:\users\102570136\source\repos\WhatDoICallThis\WhatDoICallThis\obj\Debug\WhatDoICallThis.pdb
